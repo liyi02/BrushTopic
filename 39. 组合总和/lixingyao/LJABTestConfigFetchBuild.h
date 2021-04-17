@@ -12,7 +12,7 @@ NS_ASSUME_NONNULL_BEGIN
 // 自定义上报NSUserDefaults key
 extern NSString *const LJCustomReporterCloseState;
 
-@interface LJABTestConfigFetchBuild : NSObject
+@interface LJABTestConfigFetchBuild : 
 
 + (instancetype)builder;
 
